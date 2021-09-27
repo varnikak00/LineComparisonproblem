@@ -1,0 +1,5 @@
+D:\Emplayeewagecp\Emplayewageuc1\obj\Debug\netcoreapp3.1\Emplayewageuc1.csproj.AssemblyReference.cache
+D:\Emplayeewagecp\Emplayewageuc1\obj\Debug\netcoreapp3.1\Emplayewageuc1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emplayeewagecp\Emplayewageuc1\obj\Debug\netcoreapp3.1\Emplayewageuc1.AssemblyInfoInputs.cache
+D:\Emplayeewagecp\Emplayewageuc1\obj\Debug\netcoreapp3.1\Emplayewageuc1.AssemblyInfo.cs
+D:\Emplayeewagecp\Emplayewageuc1\obj\Debug\netcoreapp3.1\Emplayewageuc1.csproj.CoreCompileInputs.cache
