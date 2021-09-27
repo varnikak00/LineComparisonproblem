@@ -1,0 +1,14 @@
+C:\Users\gokul\source\repos\Employewageuc4\bin\Debug\netcoreapp3.1\Employewageuc4.exe
+C:\Users\gokul\source\repos\Employewageuc4\bin\Debug\netcoreapp3.1\Employewageuc4.deps.json
+C:\Users\gokul\source\repos\Employewageuc4\bin\Debug\netcoreapp3.1\Employewageuc4.runtimeconfig.json
+C:\Users\gokul\source\repos\Employewageuc4\bin\Debug\netcoreapp3.1\Employewageuc4.runtimeconfig.dev.json
+C:\Users\gokul\source\repos\Employewageuc4\bin\Debug\netcoreapp3.1\Employewageuc4.dll
+C:\Users\gokul\source\repos\Employewageuc4\bin\Debug\netcoreapp3.1\Employewageuc4.pdb
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.csproj.AssemblyReference.cache
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.AssemblyInfo.cs
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.dll
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.pdb
+C:\Users\gokul\source\repos\Employewageuc4\obj\Debug\netcoreapp3.1\Employewageuc4.genruntimeconfig.cache
