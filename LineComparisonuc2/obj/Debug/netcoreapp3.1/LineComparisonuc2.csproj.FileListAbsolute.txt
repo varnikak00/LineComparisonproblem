@@ -1,0 +1,5 @@
+D:\LineComputation\LineComparisonuc2\obj\Debug\netcoreapp3.1\LineComparisonuc2.csproj.AssemblyReference.cache
+D:\LineComputation\LineComparisonuc2\obj\Debug\netcoreapp3.1\LineComparisonuc2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LineComputation\LineComparisonuc2\obj\Debug\netcoreapp3.1\LineComparisonuc2.AssemblyInfoInputs.cache
+D:\LineComputation\LineComparisonuc2\obj\Debug\netcoreapp3.1\LineComparisonuc2.AssemblyInfo.cs
+D:\LineComputation\LineComparisonuc2\obj\Debug\netcoreapp3.1\LineComparisonuc2.csproj.CoreCompileInputs.cache
