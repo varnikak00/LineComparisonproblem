@@ -1,0 +1,14 @@
+D:\LineComputation\CallculateLength\bin\Debug\netcoreapp3.1\CallculateLength.exe
+D:\LineComputation\CallculateLength\bin\Debug\netcoreapp3.1\CallculateLength.deps.json
+D:\LineComputation\CallculateLength\bin\Debug\netcoreapp3.1\CallculateLength.runtimeconfig.json
+D:\LineComputation\CallculateLength\bin\Debug\netcoreapp3.1\CallculateLength.runtimeconfig.dev.json
+D:\LineComputation\CallculateLength\bin\Debug\netcoreapp3.1\CallculateLength.dll
+D:\LineComputation\CallculateLength\bin\Debug\netcoreapp3.1\CallculateLength.pdb
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.csproj.AssemblyReference.cache
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.AssemblyInfoInputs.cache
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.AssemblyInfo.cs
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.csproj.CoreCompileInputs.cache
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.dll
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.pdb
+D:\LineComputation\CallculateLength\obj\Debug\netcoreapp3.1\CallculateLength.genruntimeconfig.cache
